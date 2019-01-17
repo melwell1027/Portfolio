@@ -1,0 +1,32 @@
+body {
+    font-family: 'Source Code Pro', monospace;
+    background-color: #fdfef8;
+}
+
+#homepage-div {
+    background-image: url(../images/chicago.jpeg);
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.jumbotron {
+    background: none;
+    text-align: center;
+    margin-top: 9%;
+}
+
+.nav {
+    background: none;
+    margin-right: 5%;
+}
+
+a {
+    color:#605856;
+}
+
+a:hover {
+    color: #DAA89B;
+    text-decoration: none;
+}

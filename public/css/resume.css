@@ -1,0 +1,13 @@
+#top-row {
+    margin-top: 7%;
+}
+
+.container {
+    box-shadow:0 0 8px #605856;
+    padding: 20px;
+}
+
+a:hover {
+    color: #DAA89B;
+    text-decoration: none;
+}

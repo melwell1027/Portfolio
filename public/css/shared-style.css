@@ -1,0 +1,54 @@
+body {
+    font-family: 'Source Code Pro', monospace;
+    background-color: #fdfef8;
+}
+
+#nav-bar {
+    background-color: #605856;
+    box-shadow:0 0 8px #605856;
+}
+
+h1 {
+    margin-left: 10%;
+    margin-top: 1%;
+    font-size: 35px;
+}
+
+.nav {
+    background: none;
+    margin-right: 10%;
+    margin-top: 1%;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #DAA89B;
+    text-decoration: none;
+}
+
+#footer {
+    position: relative;
+    bottom: 0;
+    box-shadow:0 0 8px #605856;
+    margin-top: 120px;
+    padding-top: 35px;
+    background-color:#605856;
+    height: 150px;
+    width: 100%;
+    text-align: center;
+}
+
+#foot {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    color: #fdfef8;
+}
+
+.icon {
+  height: 50px;
+  width: 50px;
+  padding: 2px; 
+}

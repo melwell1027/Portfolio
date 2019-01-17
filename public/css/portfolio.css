@@ -1,0 +1,30 @@
+.app-pic {
+    width: 100%;
+    box-shadow:0 0 8px #605856;
+}
+
+.app-text {
+    text-align: center;
+    padding-top: 3%;
+}
+
+.container {
+    margin-top: 6%;
+}
+
+.nav-link {
+    color: white;
+}
+
+.name-link {
+    color: white;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: #DAA89B;
+    text-decoration: none;
+}

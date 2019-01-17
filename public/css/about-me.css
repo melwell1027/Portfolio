@@ -1,0 +1,22 @@
+#about-me {
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+#about-me-box {
+    padding: 40px;
+}
+
+#profile-pic-box {
+    padding: 70px;
+}
+
+#profile_pic {
+    max-width: 420px;
+    box-shadow:0 0 8px #605856;
+}
+
+a:hover {
+    color: #DAA89B;
+    text-decoration: none;
+}
