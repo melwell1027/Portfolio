@@ -6,7 +6,7 @@ const path = require("path");
 // Sets up the Express App
 // =============================================================
 const app = express();
-const PORT = 8000;
+const PORT = process.env.PORT || 8000;
 
 app.use(express.static("public"));
 
