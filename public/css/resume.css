@@ -1,10 +1,18 @@
-#top-row {
-    margin-top: 7%;
+.container {
+    padding: 20px;
+    margin-top: 4%;
 }
 
-.container {
+.resumeDiv {
     box-shadow:0 0 8px #605856;
-    padding: 20px;
+    padding: 2%;
+    width: 85%;
+    margin: 2%;
+    border-radius: 5%;
+}
+
+.resumeDiv:hover {
+    box-shadow:0 0 10px black; 
 }
 
 a:hover {

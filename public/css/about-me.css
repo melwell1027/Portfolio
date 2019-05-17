@@ -1,5 +1,5 @@
 #about-me {
-    margin-top: 8%;
+    margin-top: 4%;
     margin-bottom: 15%;
 }
 
@@ -12,8 +12,10 @@
 }
 
 #profile_pic {
-    max-width: 420px;
+    max-width: 450px;
+    max-height: 450px;
     box-shadow:0 0 8px #605856;
+    border-radius: 10%;
 }
 
 a:hover {

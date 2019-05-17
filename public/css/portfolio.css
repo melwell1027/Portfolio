@@ -1,11 +1,22 @@
-.app-pic {
-    width: 100%;
+.portfolioItem {
     box-shadow:0 0 8px #605856;
+    border-radius: 5%;
+    overflow: hidden;
+}
+
+.portfolioItem:hover {
+    box-shadow:0 0 10px black; 
 }
 
 .app-text {
-    text-align: center;
-    padding-top: 3%;
+    padding: 3% 2% 0 2%;
+    font-size: 13px;
+    border-top: solid 1px lightgrey;
+}
+
+.app-pic {
+    width: 100%;
+    height: 100%;
 }
 
 .container {
